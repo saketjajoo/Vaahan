@@ -3,7 +3,7 @@ import requests
 
 def get_text_from_captcha(img_path):
     payload = {'isOverlayRequired': False,
-                   'apikey': "edfedcdc0788957",
+                   'apikey': "YOUR_API_KEY",
                    'language': "eng",
                'OCREngine' : 2
                    }
