@@ -4,7 +4,7 @@ A program to detect vehicle number plates and retrieve its details
 A user has 2 Options: <br>
 1) To enter the vehicle number manually and get the details about the vehicle.<br>
 
-![Farmers Market Finder Demo](/ReadMe/Option1.mp4)
+<p align = "center"><img src="ReadMe/Option1.gif" width="33%"></img></p>
 
 
 
