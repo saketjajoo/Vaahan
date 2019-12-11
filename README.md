@@ -1,5 +1,5 @@
 # Vaahan
-A program to detect vehicle number plates and retrieve its details
+A program to detect vehicle number plates and retrieve its details.
 <hr>
 A user has 2 Options: <br><br><br>
 
